@@ -56,46 +56,74 @@ def scrape_seed(page, seed):
     # Focus search input and type slowly (human-like)
     search_input.click()
     search_input.fill("")
-    search_input.type(seed, delay=50)
+    
+    # Type the search term character by character to trigger autocomplete
+    for char in seed:
+        search_input.type(char, delay=100)
+        time.sleep(0.1)
+    
+    # Wait a bit longer for suggestions to appear
+    time.sleep(2)
 
-    # Wait for suggestion container to appear; selectors can change. These are common patterns:
-    suggestion_selectors = [
-        # Newer Etsy UI often uses role="listbox" with options
+    # Try multiple approaches to get suggestions
+    suggestions = []
+    
+    # Approach 1: Look for autocomplete suggestions
+    autocomplete_selectors = [
         '[role="listbox"] [role="option"]',
-        # Legacy class-based fallbacks
         'ul[data-id="search-suggestions"] li',
         'div[data-region="search-suggestions"] li',
         '[data-testid="search-suggestions"] li',
         '.search-suggestions li',
-        '[class*="suggestion"]'
+        '[class*="suggestion"]',
+        '[class*="autocomplete"] li',
+        'ul[class*="dropdown"] li',
+        'div[class*="dropdown"] li'
     ]
-
-    suggestions = []
-    start = time.time()
-    while time.time() - start < 5 and not suggestions:
-        for sel in suggestion_selectors:
+    
+    for sel in autocomplete_selectors:
+        try:
             if page.locator(sel).count() > 0:
                 items = page.locator(sel)
                 count = items.count()
+                print(f"Found {count} items with selector: {sel}")
                 for i in range(count):
                     text = items.nth(i).inner_text().strip()
-                    if text and text not in suggestions:
+                    if text and text not in suggestions and len(text) > 3:
                         suggestions.append(text)
-        time.sleep(0.2)
-
-    # As a fallback, hit "ArrowDown" a few times to force list render
+        except Exception as e:
+            continue
+    
+    # Approach 2: If no suggestions found, try pressing arrow keys
     if not suggestions:
-        for _ in range(3):
+        print("No suggestions found, trying arrow key approach...")
+        for _ in range(5):
             page.keyboard.press("ArrowDown")
-            time.sleep(0.2)
-        for sel in suggestion_selectors:
-            if page.locator(sel).count() > 0:
-                items = page.locator(sel)
-                for i in range(items.count()):
-                    text = items.nth(i).inner_text().strip()
-                    if text and text not in suggestions:
-                        suggestions.append(text)
-
+            time.sleep(0.3)
+            page.keyboard.press("ArrowUp")
+            time.sleep(0.3)
+        
+        # Check again after arrow keys
+        for sel in autocomplete_selectors:
+            try:
+                if page.locator(sel).count() > 0:
+                    items = page.locator(sel)
+                    for i in range(items.count()):
+                        text = items.nth(i).inner_text().strip()
+                        if text and text not in suggestions and len(text) > 3:
+                            suggestions.append(text)
+            except:
+                continue
+    
+    # Approach 3: Take a screenshot for debugging if still no suggestions
+    if not suggestions:
+        print("Still no suggestions found - taking screenshot for debugging")
+        page.screenshot(path=f"etsy_no_suggestions_{seed.replace(' ', '_')}.png")
+        
+        # Get page HTML for debugging
+        with open(f"etsy_page_source_{seed.replace(' ', '_')}.html", "w", encoding="utf-8") as f:
+            f.write(page.content())
+    
     return suggestions
 
 def main():
