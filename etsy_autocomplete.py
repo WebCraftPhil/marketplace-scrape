@@ -608,11 +608,19 @@ def main():
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
     parser.add_argument("--headless", action="store_true", help="Run browser in headless mode")
     parser.add_argument("--delay", type=int, default=3, help="Delay between requests (seconds)")
+    parser.add_argument("--no-trends", action="store_true", help="Disable Google Trends analysis")
+    parser.add_argument("--no-etsy-analysis", action="store_true", help="Disable Etsy market analysis")
+    parser.add_argument("--enable-amazon", action="store_true", help="Enable Amazon analysis (requires setup)")
+    parser.add_argument("--enable-social", action="store_true", help="Enable social media analysis")
     args = parser.parse_args()
     
     # Update config based on args
     CONFIG["min_delay"] = args.delay
     CONFIG["max_delay"] = args.delay + 2
+    CONFIG["enable_google_trends"] = not args.no_trends
+    CONFIG["enable_etsy_analysis"] = not args.no_etsy_analysis
+    CONFIG["enable_amazon_analysis"] = args.enable_amazon
+    CONFIG["enable_social_analysis"] = args.enable_social
     
     timestamp = datetime.utcnow().isoformat()
     
