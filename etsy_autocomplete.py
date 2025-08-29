@@ -123,14 +123,8 @@ CONFIG = {
     ]
 }
 
-# Initialize Google Trends
-if PYTRENDS_AVAILABLE and CONFIG["enable_google_trends"]:
-    try:
-        pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25), retries=2, backoff_factor=0.1)
-        log_message("✅ Google Trends API initialized")
-    except Exception as e:
-        log_message(f"❌ Failed to initialize Google Trends: {e}", "ERROR")
-        CONFIG["enable_google_trends"] = False
+# Initialize Google Trends (will be done after log_message function is defined)
+pytrends = None
 
 def log_message(message, level="INFO"):
     """Log message to file and console"""
@@ -140,6 +134,15 @@ def log_message(message, level="INFO"):
     
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(log_entry + "\n")
+
+# Initialize Google Trends after log_message is defined
+if PYTRENDS_AVAILABLE and CONFIG["enable_google_trends"]:
+    try:
+        pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25), retries=2, backoff_factor=0.1)
+        log_message("✅ Google Trends API initialized")
+    except Exception as e:
+        log_message(f"❌ Failed to initialize Google Trends: {e}", "ERROR")
+        CONFIG["enable_google_trends"] = False
 
 def load_checkpoint():
     """Load progress from checkpoint file"""

@@ -1,0 +1,394 @@
+[2025-08-28 21:19:46] INFO: ✅ Google Trends API initialized
+[2025-08-28 21:19:46] INFO: Starting fresh with 130 seeds
+[2025-08-28 21:19:52] INFO: Processing 1/130: japanese wall art
+[2025-08-28 21:19:53] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:19:56] ERROR: ❌ Error processing 'japanese wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:19:56] INFO: Processing 2/130: ukiyo-e prints
+[2025-08-28 21:19:57] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:19:59] ERROR: ❌ Error processing 'ukiyo-e prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:19:59] INFO: Processing 3/130: japanese woodblock prints
+[2025-08-28 21:19:59] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:02] ERROR: ❌ Error processing 'japanese woodblock prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:02] INFO: Processing 4/130: mount fuji art
+[2025-08-28 21:20:03] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:06] ERROR: ❌ Error processing 'mount fuji art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:06] INFO: Processing 5/130: cherry blossom art
+[2025-08-28 21:20:06] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:08] ERROR: ❌ Error processing 'cherry blossom art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:08] INFO: Processing 6/130: japanese garden prints
+[2025-08-28 21:20:08] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:10] ERROR: ❌ Error processing 'japanese garden prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:10] INFO: Processing 7/130: zen wall art
+[2025-08-28 21:20:11] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:13] ERROR: ❌ Error processing 'zen wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:13] INFO: Processing 8/130: japanese calligraphy art
+[2025-08-28 21:20:14] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:16] ERROR: ❌ Error processing 'japanese calligraphy art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:16] INFO: Processing 9/130: tokyo city art
+[2025-08-28 21:20:16] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:18] ERROR: ❌ Error processing 'tokyo city art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:18] INFO: Processing 10/130: kyoto temple art
+[2025-08-28 21:20:18] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:20] ERROR: ❌ Error processing 'kyoto temple art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:20] INFO: Processing 11/130: japanese wave art
+[2025-08-28 21:20:20] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:22] ERROR: ❌ Error processing 'japanese wave art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:22] INFO: Processing 12/130: hokusai prints
+[2025-08-28 21:20:23] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:25] ERROR: ❌ Error processing 'hokusai prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:25] INFO: Processing 13/130: national parks posters
+[2025-08-28 21:20:29] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:29] ERROR: ❌ Error processing 'national parks posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:29] INFO: Processing 14/130: yosemite wall art
+[2025-08-28 21:20:29] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:32] ERROR: ❌ Error processing 'yosemite wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:32] INFO: Processing 15/130: yellowstone posters
+[2025-08-28 21:20:32] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:34] ERROR: ❌ Error processing 'yellowstone posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:34] INFO: Processing 16/130: grand canyon art
+[2025-08-28 21:20:34] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:36] ERROR: ❌ Error processing 'grand canyon art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:36] INFO: Processing 17/130: national park vintage posters
+[2025-08-28 21:20:38] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:39] ERROR: ❌ Error processing 'national park vintage posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:39] INFO: Processing 18/130: park ranger art
+[2025-08-28 21:20:39] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:41] ERROR: ❌ Error processing 'park ranger art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:41] INFO: Processing 19/130: nature conservation posters
+[2025-08-28 21:20:41] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:43] ERROR: ❌ Error processing 'nature conservation posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:43] INFO: Processing 20/130: outdoor adventure posters
+[2025-08-28 21:20:43] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:45] ERROR: ❌ Error processing 'outdoor adventure posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:45] INFO: Processing 21/130: hiking trail maps
+[2025-08-28 21:20:45] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:48] ERROR: ❌ Error processing 'hiking trail maps': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:48] INFO: Processing 22/130: camping wall art
+[2025-08-28 21:20:48] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:50] ERROR: ❌ Error processing 'camping wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:50] INFO: Processing 23/130: vintage travel posters
+[2025-08-28 21:20:50] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:52] ERROR: ❌ Error processing 'vintage travel posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:52] INFO: Processing 24/130: old travel advertisements
+[2025-08-28 21:20:52] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:54] ERROR: ❌ Error processing 'old travel advertisements': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:54] INFO: Processing 25/130: retro travel art
+[2025-08-28 21:20:54] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:56] ERROR: ❌ Error processing 'retro travel art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:56] INFO: Processing 26/130: vintage airline posters
+[2025-08-28 21:20:56] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:20:59] ERROR: ❌ Error processing 'vintage airline posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:20:59] INFO: Processing 27/130: old cruise ship posters
+[2025-08-28 21:20:59] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:01] ERROR: ❌ Error processing 'old cruise ship posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:01] INFO: Processing 28/130: vintage destination art
+[2025-08-28 21:21:01] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:03] ERROR: ❌ Error processing 'vintage destination art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:03] INFO: Processing 29/130: classic travel prints
+[2025-08-28 21:21:03] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:06] ERROR: ❌ Error processing 'classic travel prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:06] INFO: Processing 30/130: old tourism posters
+[2025-08-28 21:21:06] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:08] ERROR: ❌ Error processing 'old tourism posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:08] INFO: Processing 31/130: vintage city posters
+[2025-08-28 21:21:09] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:10] ERROR: ❌ Error processing 'vintage city posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:10] INFO: Processing 32/130: old city maps
+[2025-08-28 21:21:10] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:12] ERROR: ❌ Error processing 'old city maps': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:12] INFO: Processing 33/130: vintage map prints
+[2025-08-28 21:21:12] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:14] ERROR: ❌ Error processing 'vintage map prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:14] INFO: Processing 34/130: antique map posters
+[2025-08-28 21:21:15] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:16] ERROR: ❌ Error processing 'antique map posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:17] INFO: Processing 35/130: historical maps
+[2025-08-28 21:21:17] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:19] ERROR: ❌ Error processing 'historical maps': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:19] INFO: Processing 36/130: old world maps
+[2025-08-28 21:21:20] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:21] ERROR: ❌ Error processing 'old world maps': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:21] INFO: Processing 37/130: vintage atlas prints
+[2025-08-28 21:21:21] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:23] ERROR: ❌ Error processing 'vintage atlas prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:23] INFO: Processing 38/130: antique cartography
+[2025-08-28 21:21:24] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:26] ERROR: ❌ Error processing 'antique cartography': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:26] INFO: Processing 39/130: old street maps
+[2025-08-28 21:21:26] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:29] ERROR: ❌ Error processing 'old street maps': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:29] INFO: Processing 40/130: vintage city plans
+[2025-08-28 21:21:29] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:31] ERROR: ❌ Error processing 'vintage city plans': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:31] INFO: Processing 41/130: historical cartography art
+[2025-08-28 21:21:31] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:33] ERROR: ❌ Error processing 'historical cartography art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:33] INFO: Processing 42/130: vintage botanical prints
+[2025-08-28 21:21:33] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:36] ERROR: ❌ Error processing 'vintage botanical prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:36] INFO: Processing 43/130: old scientific illustrations
+[2025-08-28 21:21:36] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:38] ERROR: ❌ Error processing 'old scientific illustrations': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:38] INFO: Processing 44/130: vintage medical art
+[2025-08-28 21:21:39] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:40] ERROR: ❌ Error processing 'vintage medical art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:40] INFO: Processing 45/130: antique flower prints
+[2025-08-28 21:21:40] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:42] ERROR: ❌ Error processing 'antique flower prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:42] INFO: Processing 46/130: vintage herbarium
+[2025-08-28 21:21:42] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:45] ERROR: ❌ Error processing 'vintage herbarium': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:45] INFO: Processing 47/130: old anatomy prints
+[2025-08-28 21:21:45] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:47] ERROR: ❌ Error processing 'old anatomy prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:47] INFO: Processing 48/130: vintage butterfly art
+[2025-08-28 21:21:47] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:50] ERROR: ❌ Error processing 'vintage butterfly art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:50] INFO: Processing 49/130: antique bird prints
+[2025-08-28 21:21:50] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:52] ERROR: ❌ Error processing 'antique bird prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:52] INFO: Processing 50/130: vintage natural history
+[2025-08-28 21:21:52] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:53] ERROR: ❌ Error processing 'vintage natural history': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:53] INFO: Processing 51/130: old botanical drawings
+[2025-08-28 21:21:53] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:53] ERROR: ❌ Error processing 'old botanical drawings': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:53] INFO: Processing 52/130: classic literature posters
+[2025-08-28 21:21:53] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:53] ERROR: ❌ Error processing 'classic literature posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:53] INFO: Processing 53/130: old book covers
+[2025-08-28 21:21:54] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:54] ERROR: ❌ Error processing 'old book covers': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:54] INFO: Processing 54/130: vintage book illustrations
+[2025-08-28 21:21:54] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:54] ERROR: ❌ Error processing 'vintage book illustrations': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:54] INFO: Processing 55/130: shakespeare quotes art
+[2025-08-28 21:21:55] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:55] ERROR: ❌ Error processing 'shakespeare quotes art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:55] INFO: Processing 56/130: classic novel posters
+[2025-08-28 21:21:55] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:55] ERROR: ❌ Error processing 'classic novel posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:55] INFO: Processing 57/130: vintage library art
+[2025-08-28 21:21:55] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:56] ERROR: ❌ Error processing 'vintage library art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:56] INFO: Processing 58/130: old manuscript art
+[2025-08-28 21:21:56] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:56] ERROR: ❌ Error processing 'old manuscript art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:56] INFO: Processing 59/130: classic poetry posters
+[2025-08-28 21:21:56] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:56] ERROR: ❌ Error processing 'classic poetry posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:56] INFO: Processing 60/130: vintage bookplate art
+[2025-08-28 21:21:56] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:56] ERROR: ❌ Error processing 'vintage bookplate art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:56] INFO: Processing 61/130: art nouveau posters
+[2025-08-28 21:21:57] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:57] ERROR: ❌ Error processing 'art nouveau posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:57] INFO: Processing 62/130: art deco prints
+[2025-08-28 21:21:57] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:57] ERROR: ❌ Error processing 'art deco prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:57] INFO: Processing 63/130: vintage art nouveau
+[2025-08-28 21:21:58] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:58] ERROR: ❌ Error processing 'vintage art nouveau': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:58] INFO: Processing 64/130: deco wall art
+[2025-08-28 21:21:58] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:58] ERROR: ❌ Error processing 'deco wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:58] INFO: Processing 65/130: vintage advertising art
+[2025-08-28 21:21:58] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:59] ERROR: ❌ Error processing 'vintage advertising art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:59] INFO: Processing 66/130: old poster art
+[2025-08-28 21:21:59] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:59] ERROR: ❌ Error processing 'old poster art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:59] INFO: Processing 67/130: retro advertising prints
+[2025-08-28 21:21:59] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:21:59] ERROR: ❌ Error processing 'retro advertising prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:21:59] INFO: Processing 68/130: vintage typography art
+[2025-08-28 21:22:00] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:00] ERROR: ❌ Error processing 'vintage typography art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:00] INFO: Processing 69/130: old logo art
+[2025-08-28 21:22:00] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:00] ERROR: ❌ Error processing 'old logo art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:00] INFO: Processing 70/130: vintage brand posters
+[2025-08-28 21:22:01] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:01] ERROR: ❌ Error processing 'vintage brand posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:01] INFO: Processing 71/130: vintage photographs
+[2025-08-28 21:22:01] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:01] ERROR: ❌ Error processing 'vintage photographs': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:01] INFO: Processing 72/130: old family photos
+[2025-08-28 21:22:01] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:02] ERROR: ❌ Error processing 'old family photos': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:02] INFO: Processing 73/130: historical photography
+[2025-08-28 21:22:02] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:02] ERROR: ❌ Error processing 'historical photography': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:02] INFO: Processing 74/130: vintage portrait art
+[2025-08-28 21:22:02] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:02] ERROR: ❌ Error processing 'vintage portrait art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:02] INFO: Processing 75/130: old street photography
+[2025-08-28 21:22:03] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:03] ERROR: ❌ Error processing 'old street photography': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:03] INFO: Processing 76/130: vintage landscape photos
+[2025-08-28 21:22:03] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:03] ERROR: ❌ Error processing 'vintage landscape photos': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:03] INFO: Processing 77/130: antique photo art
+[2025-08-28 21:22:04] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:04] ERROR: ❌ Error processing 'antique photo art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:04] INFO: Processing 78/130: vintage documentary photos
+[2025-08-28 21:22:04] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:04] ERROR: ❌ Error processing 'vintage documentary photos': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:04] INFO: Processing 79/130: old architectural photos
+[2025-08-28 21:22:04] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:04] ERROR: ❌ Error processing 'old architectural photos': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:04] INFO: Processing 80/130: vintage fashion posters
+[2025-08-28 21:22:05] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:05] ERROR: ❌ Error processing 'vintage fashion posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:05] INFO: Processing 81/130: old fashion illustrations
+[2025-08-28 21:22:05] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:05] ERROR: ❌ Error processing 'old fashion illustrations': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:05] INFO: Processing 82/130: retro style art
+[2025-08-28 21:22:05] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:05] ERROR: ❌ Error processing 'retro style art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:05] INFO: Processing 83/130: vintage beauty ads
+[2025-08-28 21:22:06] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:06] ERROR: ❌ Error processing 'vintage beauty ads': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:06] INFO: Processing 84/130: old magazine covers
+[2025-08-28 21:22:06] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:06] ERROR: ❌ Error processing 'old magazine covers': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:06] INFO: Processing 85/130: vintage pinup art
+[2025-08-28 21:22:07] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:07] ERROR: ❌ Error processing 'vintage pinup art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:07] INFO: Processing 86/130: retro fashion prints
+[2025-08-28 21:22:07] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:07] ERROR: ❌ Error processing 'retro fashion prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:07] INFO: Processing 87/130: vintage clothing art
+[2025-08-28 21:22:08] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:08] ERROR: ❌ Error processing 'vintage clothing art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:08] INFO: Processing 88/130: old style posters
+[2025-08-28 21:22:08] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:08] ERROR: ❌ Error processing 'old style posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:08] INFO: Processing 89/130: vintage car posters
+[2025-08-28 21:22:09] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:09] ERROR: ❌ Error processing 'vintage car posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:09] INFO: Processing 90/130: old train art
+[2025-08-28 21:22:09] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:09] ERROR: ❌ Error processing 'old train art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:09] INFO: Processing 91/130: vintage airplane posters
+[2025-08-28 21:22:09] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:10] ERROR: ❌ Error processing 'vintage airplane posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:10] INFO: Processing 92/130: retro transportation art
+[2025-08-28 21:22:10] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:10] ERROR: ❌ Error processing 'retro transportation art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:10] INFO: Processing 93/130: vintage motorcycle art
+[2025-08-28 21:22:10] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:10] ERROR: ❌ Error processing 'vintage motorcycle art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:10] INFO: Processing 94/130: old ship posters
+[2025-08-28 21:22:11] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:11] ERROR: ❌ Error processing 'old ship posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:11] INFO: Processing 95/130: vintage vehicle art
+[2025-08-28 21:22:11] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:11] ERROR: ❌ Error processing 'vintage vehicle art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:11] INFO: Processing 96/130: retro travel posters
+[2025-08-28 21:22:11] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:11] ERROR: ❌ Error processing 'retro travel posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:11] INFO: Processing 97/130: old transportation prints
+[2025-08-28 21:22:12] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:12] ERROR: ❌ Error processing 'old transportation prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:12] INFO: Processing 98/130: vintage american posters
+[2025-08-28 21:22:12] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:12] ERROR: ❌ Error processing 'vintage american posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:12] INFO: Processing 99/130: old western art
+[2025-08-28 21:22:12] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:12] ERROR: ❌ Error processing 'old western art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:12] INFO: Processing 100/130: vintage cowboy art
+[2025-08-28 21:22:13] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:13] ERROR: ❌ Error processing 'vintage cowboy art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:13] INFO: Processing 101/130: retro american prints
+[2025-08-28 21:22:13] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:13] ERROR: ❌ Error processing 'retro american prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:13] INFO: Processing 102/130: vintage patriotic art
+[2025-08-28 21:22:13] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:13] ERROR: ❌ Error processing 'vintage patriotic art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:13] INFO: Processing 103/130: old american advertisements
+[2025-08-28 21:22:14] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:14] ERROR: ❌ Error processing 'old american advertisements': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:14] INFO: Processing 104/130: vintage baseball art
+[2025-08-28 21:22:14] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:14] ERROR: ❌ Error processing 'vintage baseball art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:14] INFO: Processing 105/130: retro american style
+[2025-08-28 21:22:14] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:14] ERROR: ❌ Error processing 'retro american style': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:14] INFO: Processing 106/130: vintage american life
+[2025-08-28 21:22:15] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:15] ERROR: ❌ Error processing 'vintage american life': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:15] INFO: Processing 107/130: vintage european art
+[2025-08-28 21:22:15] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:15] ERROR: ❌ Error processing 'vintage european art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:15] INFO: Processing 108/130: old french posters
+[2025-08-28 21:22:15] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:15] ERROR: ❌ Error processing 'old french posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:15] INFO: Processing 109/130: vintage italian art
+[2025-08-28 21:22:16] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:16] ERROR: ❌ Error processing 'vintage italian art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:16] INFO: Processing 110/130: retro european prints
+[2025-08-28 21:22:16] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:16] ERROR: ❌ Error processing 'retro european prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:16] INFO: Processing 111/130: vintage british art
+[2025-08-28 21:22:16] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:16] ERROR: ❌ Error processing 'vintage british art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:16] INFO: Processing 112/130: old german posters
+[2025-08-28 21:22:17] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:17] ERROR: ❌ Error processing 'old german posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:17] INFO: Processing 113/130: vintage paris art
+[2025-08-28 21:22:17] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:17] ERROR: ❌ Error processing 'vintage paris art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:17] INFO: Processing 114/130: retro european style
+[2025-08-28 21:22:17] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:17] ERROR: ❌ Error processing 'retro european style': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:17] INFO: Processing 115/130: vintage european life
+[2025-08-28 21:22:17] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:18] ERROR: ❌ Error processing 'vintage european life': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:18] INFO: Processing 116/130: james webb space telescope wall art
+[2025-08-28 21:22:18] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:18] ERROR: ❌ Error processing 'james webb space telescope wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:18] INFO: Processing 117/130: nasa space posters
+[2025-08-28 21:22:18] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:18] ERROR: ❌ Error processing 'nasa space posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:18] INFO: Processing 118/130: astronomy wall art
+[2025-08-28 21:22:19] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:19] ERROR: ❌ Error processing 'astronomy wall art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:19] INFO: Processing 119/130: galaxy wall prints
+[2025-08-28 21:22:19] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:19] ERROR: ❌ Error processing 'galaxy wall prints': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:19] INFO: Processing 120/130: nebula posters
+[2025-08-28 21:22:20] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:20] ERROR: ❌ Error processing 'nebula posters': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:20] INFO: Processing 121/130: solar system art
+[2025-08-28 21:22:20] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:20] ERROR: ❌ Error processing 'solar system art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:20] INFO: Processing 122/130: personalized name art
+[2025-08-28 21:22:21] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:21] ERROR: ❌ Error processing 'personalized name art': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:21] INFO: Processing 123/130: custom family tree
+[2025-08-28 21:22:21] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:21] ERROR: ❌ Error processing 'custom family tree': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:21] INFO: Processing 124/130: birthday gift personalized
+[2025-08-28 21:22:21] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:21] ERROR: ❌ Error processing 'birthday gift personalized': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:21] INFO: Processing 125/130: anniversary gift custom
+[2025-08-28 21:22:22] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:22] ERROR: ❌ Error processing 'anniversary gift custom': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:22] INFO: Processing 126/130: wedding guest book
+[2025-08-28 21:22:22] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:22] ERROR: ❌ Error processing 'wedding guest book': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:22] INFO: Processing 127/130: baby milestone cards
+[2025-08-28 21:22:23] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:23] ERROR: ❌ Error processing 'baby milestone cards': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:23] INFO: Processing 128/130: pet portrait custom
+[2025-08-28 21:22:23] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:23] ERROR: ❌ Error processing 'pet portrait custom': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:23] INFO: Processing 129/130: housewarming gift
+[2025-08-28 21:22:23] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:24] ERROR: ❌ Error processing 'housewarming gift': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:24] INFO: Processing 130/130: teacher appreciation gift
+[2025-08-28 21:22:24] ERROR: Could not find search input - taking screenshot for debugging
+[2025-08-28 21:22:24] ERROR: ❌ Error processing 'teacher appreciation gift': not enough values to unpack (expected 2, got 0)
+[2025-08-28 21:22:24] INFO: 🎉 Research complete! Total data points saved: 0
+[2025-08-28 21:22:24] INFO: Data saved to: etsy_market_research.csv
