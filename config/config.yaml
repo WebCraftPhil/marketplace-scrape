@@ -1,0 +1,79 @@
+# Etsy Market Research Scraper Configuration
+
+# Scraping Settings
+scraping:
+  min_delay: 2
+  max_delay: 8
+  max_retries: 3
+  timeout: 15000
+  headless: true
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+
+# Features
+features:
+  enable_google_trends: true
+  enable_etsy_analysis: true
+  enable_amazon_analysis: false
+  enable_social_analysis: false
+
+# Output Settings
+output:
+  csv_filename: "etsy_market_research.csv"
+  summary_filename: "opportunity_summary.txt"
+  log_filename: "scraping_log.txt"
+  checkpoint_filename: "scraping_checkpoint.json"
+
+# Competition Analysis
+competition:
+  low_threshold: 1000
+  moderate_threshold: 10000
+  high_threshold: 100000
+
+# Opportunity Scoring
+scoring:
+  competition_weights:
+    low: 3.0
+    moderate: 1.0
+    high: -2.0
+  trend_weight: 0.05  # trend_score / 20
+  direction_bonus:
+    growing: 1.5
+    stable: 0.0
+    declining: -1.0
+  price_weight: 2.0
+  dispersion_bonus: 1.0
+
+# Logging
+logging:
+  level: "INFO"
+  format: "json"
+  file_rotation: "daily"
+  max_file_size: "10MB"
+  backup_count: 7
+
+# Rate Limiting
+rate_limiting:
+  requests_per_minute: 30
+  burst_size: 5
+  backoff_factor: 1.5
+
+# Browser Settings
+browser:
+  viewport_width: 1920
+  viewport_height: 1080
+  locale: "en-US"
+  timezone: "America/New_York"
+
+# Data Validation
+validation:
+  max_listing_count: 1000000
+  max_price: 10000
+  min_price: 0.01
+  max_suggestions_per_seed: 50
+
+# Development
+development:
+  debug_mode: false
+  save_screenshots: true
+  screenshot_dir: "debug_screenshots"
+  verbose_logging: false

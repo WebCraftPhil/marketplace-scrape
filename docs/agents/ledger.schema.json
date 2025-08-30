@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Agent Work Ledger Schema",
+  "description": "Schema for tracking agent activities and preventing duplicate work",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "actor", "intent", "inputs", "relatedFiles", "status", "evidence", "notes", "fingerprint"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^\\d{8}-\\d{4}-[a-z0-9-]+$",
+        "description": "Unique identifier in format YYYYMMDD-HHMM-description"
+      },
+      "actor": {
+        "type": "string",
+        "pattern": "^(agent|human):[a-zA-Z0-9_-]+$",
+        "description": "Who performed the work (agent:cursor, human:phil, etc.)"
+      },
+      "intent": {
+        "type": "string",
+        "maxLength": 200,
+        "description": "Brief description of what was intended to accomplish"
+      },
+      "inputs": {
+        "type": "object",
+        "description": "Key parameters or inputs that define the work"
+      },
+      "relatedFiles": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "List of repository files that were created or modified"
+      },
+      "status": {
+        "type": "string",
+        "enum": ["done", "skipped-duplicate", "failed", "in-progress"],
+        "description": "Current status of the work"
+      },
+      "evidence": {
+        "type": "string",
+        "description": "Proof that the work was completed (commit SHA, file creation, etc.)"
+      },
+      "notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "maxItems": 5,
+        "description": "1-3 bullet points about constraints, follow-ups, or important details"
+      },
+      "fingerprint": {
+        "type": "string",
+        "pattern": "^sha256:[a-f0-9]{64}$",
+        "description": "SHA256 hash of (intent + JSON.stringify(inputs)) to detect duplicates"
+      }
+    }
+  }
+}
